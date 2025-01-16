@@ -21,4 +21,4 @@ def single_root_words(root_word, *other_words):
 # Вызов функции и вывод результата
 result = single_root_words("синхрофазатрон", "Фаза", "трон", "Синх", "snow", "синтезатор")
 print(result)
-# Вывод: ['Disablement', 'able', 'AbLe']
+# Вывод:# Вывод: ['Фаза', 'трон', 'Синх']
